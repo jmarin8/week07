@@ -1,0 +1,4 @@
+regular expression matching a target string consisting only of an integer number is /^\d+$/
+regular expression matching a target string containing only an integer or a decimal number is /^\d*\.?\d+$/
+regular expression matching a string containing a positive or negative integer or decimal number is /^[+-]?\d*\.?\d+$/
+regular expression matching a string containing only a positive or negative number in scientific notation is /^[-+]?\d*\.?\d+[eE][-+]?\d+$/
